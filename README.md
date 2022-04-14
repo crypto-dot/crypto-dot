@@ -3,7 +3,7 @@
 
 # 👋 Hi, I’m Carlos
 
-I'm a software developer who loves learning about different frameworks,technologies, and languages.
+I'm a software developer who loves learning about different frameworks, technologies, and languages.
 
 # 💻 Tech Stack
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=whit"> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
