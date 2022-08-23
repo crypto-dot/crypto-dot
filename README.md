@@ -1,7 +1,7 @@
 
 <img width="400" src="https://media.giphy.com/media/26uf7ScTyyojrKIqA/giphy.gif">
 
-# Hi, I’m Carlos
+# Hello, I’m Carlos
 
 I'm a software developer who loves learning about different frameworks, technologies, and languages.
 
