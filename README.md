@@ -3,7 +3,7 @@
 
 # Hello, I’m Carlos
 
-I'm a software developer who loves learning about different frameworks, technologies, and languages.
+I'm a software developer who loves learning about different frameworks, technologies, and languages. <br>
 Personal Site:
 https://arbizu.dev/
 Frontend Mentor Profile: 
