@@ -3,11 +3,12 @@
 
 # Hello, I’m Carlos
 
-I'm a software developer who loves learning about different frameworks, technologies, and languages. <br>
+I'm a software developer who loves learning about different frameworks, technologies, and languages. A lot of my repos are my attempts at trying new technologies and stumbling around! <br>
 Personal Site: <br>
 https://arbizu.dev/ <br>
 Frontend Mentor Profile: <br>
 https://www.frontendmentor.io/profile/crypto-dot <br>
+
 # 💻 Tech Stack
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=whit"> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
